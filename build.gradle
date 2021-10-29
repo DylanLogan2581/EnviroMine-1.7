@@ -17,9 +17,9 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "FWG_EM_VER"
+version = ""
 group= "enviromine" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "EnviroMine"
+archivesBaseName = "EnviroRot"
 
 minecraft {
     version = "1.7.10-10.13.0.1180"
