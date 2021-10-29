@@ -1,6 +1,6 @@
-EnviroMine
+Envirorot
 ==========
-For information, please check [the wiki](https://github.com/Funwayguy/EnviroMine/wiki)
+This mod is a fork of Enviromine for Minecraft 1.7.10 that is simply food rotting, and none of the other features.
 
 Licence
 =======
