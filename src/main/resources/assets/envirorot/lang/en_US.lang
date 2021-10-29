@@ -1,0 +1,14 @@
+language.name=English
+
+item.envirorot.rottenfood.name=Rotten Food
+item.envirorot.spoiledmilk.name=Spoiled Milk
+
+tile.envirorot.esky.name=Esky
+tile.envirorot.freezer.name=Freezer
+
+container.envirorot.esky=Esky
+container.envirorot.freezer=Freezer
+
+itemGroup.envirorot.enviroTab=Rotting Mod
+
+misc.envirorot.tooltip.rot=Rotten: %s (Day %s/%s)
