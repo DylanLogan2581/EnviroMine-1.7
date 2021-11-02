@@ -219,6 +219,7 @@ public class EM_ConfigHandler
 		//General Settings
 		EM_Settings.foodSpoiling = config.get(Configuration.CATEGORY_GENERAL, "Enable food spoiling", EM_Settings.foodSpoiling).getBoolean(EM_Settings.foodSpoiling);
 		EM_Settings.foodRotTime = config.get(Configuration.CATEGORY_GENERAL, "Default spoil time (days)", EM_Settings.foodRotTime).getInt(EM_Settings.foodRotTime);
+		EM_Settings.foodRound = config.get(Configuration.CATEGORY_GENERAL, "Food spoiling rounding (ticks)", EM_Settings.foodRound).getInt(EM_Settings.foodRound);
 			
 		// Config Options
 		String ConSetCat = "Config";

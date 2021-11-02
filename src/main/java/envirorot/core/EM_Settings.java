@@ -43,6 +43,7 @@ public class EM_Settings
 	
 	public static boolean foodSpoiling = true;
 	public static int foodRotTime = 7;
+	public static int foodRound = 1;
 	
 	/** Whether or not this overridden with server settings */
 	public static boolean isOverridden = false;
